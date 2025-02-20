@@ -10,7 +10,7 @@ Right now the areas in which I am most interested in are Web Development and Cyb
 In addition to my technical skills, I value teamwork and collaboration. I believe that working with others and sharing knowledge is essential for personal and professional growth. I am always open to new opportunities and experiences that can help me grow as an individual and as a professional.
 
 ## Education
-- **Instituto Politécnico de Setúbal**
+- **Polytechnic Institute of Setubal**
   - Bachelor’s Degree in Informatic Engineering
   - Expected Graduation: 2025
 
