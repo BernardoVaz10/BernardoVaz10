@@ -11,8 +11,7 @@ In addition to my technical skills, I value teamwork and collaboration. I believ
 
 ## Education
 - **Polytechnic Institute of Setubal**
-  - Bachelor’s Degree in Informatic Engineering
-  - Expected Graduation: 2025
+  - Bachelor’s Degree in Informatic Engineering (2025)
 
 ## Skills
 - **Programming Languages**: Java, Python, SQL, C, HTML
@@ -24,9 +23,9 @@ In addition to my technical skills, I value teamwork and collaboration. I believ
 ## Certifications
 - **[Complete Networking Course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start)** by Udemy (2024 – 2025)
 - **[Windows Server](https://www.udemy.com/course/windows-server-2019-1)** by Udemy (2024 – 2025)
-- **[The Complete Ethical Hacking Course](https://www.udemy.com/course/the-complete-ethical-hacking-course/)** by Udemy (2025 – Present)
-- **[Certificação AZ-900 Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)** by Udemy (2025 – Present)
-- **[Complete Guide to Building an App with .Net Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react)** by Udemy (2025 – Present)
+- **[The Complete Ethical Hacking Course](https://www.udemy.com/course/the-complete-ethical-hacking-course/)** by Udemy (2025 – 2025)
+- **[Certificação AZ-900 Microsoft Azure Fundamentals](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)** by Udemy (2025 – 2025)
+- **[Complete Guide to Building an App with .Net Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react)** by Udemy (2025 – 2025)
 
 ## Projects
 Here are some of the projects I enjoyed working on the most:
